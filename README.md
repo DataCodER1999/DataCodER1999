@@ -43,7 +43,7 @@
 
 ## 🟣 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&theme=radical&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DataCodER1999&theme=radical&show_icons=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=radical&show_icons=true)
 
 ## 🌱 GitHub Activity
