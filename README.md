@@ -48,7 +48,7 @@
 
 ## 🌱 GitHub Activity
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YourUsername&bg_color=030303&color=9e4c98&line=9e4c98&point=bd9393&area=true&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DataCodER1999&bg_color=030303&color=9e4c98&line=9e4c98&point=bd9393&area=true&hide_border=true)
 
 ## ⚡ Top Languages
 
